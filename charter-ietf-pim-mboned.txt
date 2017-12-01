@@ -1,0 +1,35 @@
+Protocols for IP Multicast (pim) 
+
+The Protocols for IP Multicast (PIM) working group is chartered to work on IP multicast protocols, and as a forum for coordinating their
+deployment, engineering, and operation in the global Internet, inter-domain and single domain. The Working Group is responsible for the maintenance of PIM, IGMP, and MLD.
+
+Activities related to the WG include:
+
+- Document deployment of multicast routing.
+
+- Receive regular reports on the current state of the deployment of
+multicast technology. Create "practice and experience" documents that
+capture the experience of those who have deployed and are deploying
+various multicast technologies.
+
+- Develop mechanisms and procedures for sharing operational information
+to aid in operation of the multicast backbones and interconnects.
+
+- Develop tools and provide operational and implementation advice that assists in multicast administration, diagnostics, troubleshooting and deployment between/within native and non-native environments.
+
+- Discuss and develop new ideas related to multicast protocols and distribution of multicast related information.
+
+The WG is expected to use its extensive multicast knowledge to actively review and participate in WG Last Calls with multicast work that occurs in other WGs.  The WG should investigate any extensions needed to support other work and, if additional work is required, the WG may be rechartered to accomplish the specific extensions.
+
+
+The Working Group will work on the following specific items:
+
+1) Management: YANG models for PIM, IGMP, and MLD will be developed, for both configuration and operational states. If updates to existing MIB modules are necessary, the WG may work on those.
+
+2) Improve PIM authentication.
+
+3) Improve and Extend PIM Join Attributes to support different types of multicast applications.
+
+4) Optimization approaches for IGMP and MLD to adapt to link conditions in wireless and mobile networks and be more robust to packet loss.
+
+Additional work items may be added with a recharter.
