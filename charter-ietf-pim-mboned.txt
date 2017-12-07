@@ -1,7 +1,7 @@
-Protocols for IP Multicast (pim) 
+Protocols for IP Multicast (pim)
 
 The Protocols for IP Multicast (PIM) working group is chartered to work on IP multicast protocols, and as a forum for coordinating their
-deployment, engineering, and operation in the global Internet, both inter-domain and single domain. The Working Group is responsible for the maintenance of PIM, IGMP, and MLD.
+deployment, engineering, and operation in the global Internet, both inter-domain and single domain. The Working Group is responsible for the maintenance of PIM, IGMP, MLD and AMT.
 
 Activities related to the WG include:
 
